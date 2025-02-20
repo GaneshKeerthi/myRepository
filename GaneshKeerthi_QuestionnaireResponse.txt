@@ -116,3 +116,5 @@ Web::
 Request - New bean per request
 Session - New bean per session
 Global Session - New bean per global http session
+
+Global session edits notes in NewBranch
